@@ -460,6 +460,7 @@ document.getElementById("xenieme").addEventListener("click", function() {
     }, { once: true });
 });
 
+
 document.getElementById("ans").addEventListener("click", function() {
     ecran.innerText += lastResult; // Utilisation du dernier résultat
 });
