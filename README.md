@@ -1,4 +1,4 @@
-# Calculatrice
+# Calculatrice scientifique
 
 ## Description
 Ce projet est une calculatrice web que j'ai commencée vers la fin du semestre 1 et que j'ai terminée pendant les congés. Elle permet d'effectuer des calculs de base ainsi que des fonctions avancées telles que les fonctions trigonométriques, logarithmiques, et les opérations avec des radians.
